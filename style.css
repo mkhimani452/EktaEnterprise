@@ -270,6 +270,29 @@ ul a:hover{
     justify-content: center;
 }
 
+.comingsoon {
+    text-align: center;
+    font-family: 'Poppins', 'Noto Sans Gujarati', sans-serif;
+    background-color: #FFF5F5; /* soft red tone */
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(211, 47, 47, 0.2);
+    width: 90%;
+    max-width: 600px;
+}
+
+.comingsoon h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #D32F2F; /* Ekta red */
+    margin-bottom: 20px;
+}
+
+.comingsoon p {
+    font-size: 18px;
+    color: #0a58ca; /* Ekta blue */
+    margin: 10px 0;
+}
 
 
 
